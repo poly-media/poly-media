@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Andi</h1>
 <h3 align="center">Frontend developer from Munich</h3>
 
-- 🔭 I’m currently working on Client Projects (Only private repos)
+- 💼 I’m currently working on client projects (Only private repos)
 
-- 🌱 I’m currently learning **ThreeJS & Blender**
+- 📖 I’m currently learning **ThreeJS & Blender**
 
 - 👨‍💻 Portfolio website [https://poly.media](https://poly.media)
 
